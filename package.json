@@ -1,0 +1,12 @@
+{
+  "name": "name_of_the_script",
+  "version": "0.1.0",
+  "description": "",
+  "main": "name_of_the_script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
